@@ -2,4 +2,12 @@ command: git init
 creates new git repositry but does not create 
 any commits so its a git repositry with no files
 
+command: git add f1.txt 
+adds files to staging area - these files are the
+chosen files to be committed to the repositry
+
+command: git status
+tells us files in the stagin area and files that 
+will not be committed.
+
 
