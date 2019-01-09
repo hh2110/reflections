@@ -10,4 +10,10 @@ command: git status
 tells us files in the stagin area and files that 
 will not be committed.
 
+commands: git diff, git diff --staged, git diff f1 f2
+(i) shows differences between cwd and stage area
+(ii) shows differences between staged file and latest
+commit files
+(iii) orig meaning
+
 
