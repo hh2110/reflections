@@ -1,0 +1,5 @@
+command: git init
+creates new git repositry but does not create 
+any commits so its a git repositry with no files
+
+

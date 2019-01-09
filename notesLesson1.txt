@@ -1,0 +1,43 @@
+command is: diff -u f1.txt f2.txt
+Using the command diff to locate changes in files 
+is perfect, because it saves us from manually 
+searching the files to find the difference
+
+If one is to make mistakes or get errors they cannot
+find the solutions to, by accessing previous versions,
+they are able to find the differences, one of which 
+must be causing the error in the first place
+
+command: git log --stat
+shows the different commits made on the files with id
+numbers and the descriptions of the changes made in
+the commits. the --stat option shows number of additions
+and deletions too
+
+command: git diff id1 id2
+shows the differences in the two commits
+
+its best to perform a single commit for every logical 
+change rather than performing a commit every N hours
+so that changes in the code can easily be tracked and
+bugs can be identified more easily and each commit will
+also make sense and run successfully
+
+a repositry is a group of files that are committed together
+every time because all of them are important in making
+the program work
+
+command: git clone link
+this downloads the entire repositry, so files plus 
+history of a project behind the link
+
+command: git checkout id
+we cna revert back to a previous commit with id 
+
+by using git, we can easily mkae changes in a big program,
+safe in the knowledge that if something goes wrong, we will 
+have a old version that definitely works
+
+
+
+
