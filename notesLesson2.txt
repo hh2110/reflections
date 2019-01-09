@@ -16,4 +16,13 @@ commands: git diff, git diff --staged, git diff f1 f2
 commit files
 (iii) orig meaning
 
+commands: git branch, git branch b1
+(i) tells us which branch we are currently in and the 
+branches available
+(ii) takes us to branch b1
+branches are useful when trying to add new big features
+which might change lots of things int eh code - but
+you want to keep a clean code too
+
+
 
