@@ -24,5 +24,6 @@ branches are useful when trying to add new big features
 which might change lots of things int eh code - but
 you want to keep a clean code too
 
-
+visualisation of branches is useful to see whats happened
+in the past
 
