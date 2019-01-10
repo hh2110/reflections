@@ -4,3 +4,13 @@ wider audience.
 you'd want to push changes manually to Git, rather 
 than it being automatic so that once you finish something
 concrete, then its on git
+
+fork is when you want to clone someone's repositry into
+your own git account while still acknowledging the 
+author
+clone is when you copy someone's repositry directly to
+your local drive
+branches are used to add in new ideas without affecting
+the code that is currently in production
+
+
