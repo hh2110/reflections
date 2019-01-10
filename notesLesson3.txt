@@ -13,4 +13,7 @@ your local drive
 branches are used to add in new ideas without affecting
 the code that is currently in production
 
-
+local copies of local branches: by copying the last known
+state of the remote stored locally we can fix merge 
+conflicts between the github latest commit and the local 
+latest commit before updating github 
