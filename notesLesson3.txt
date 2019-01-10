@@ -1,2 +1,6 @@
 using github will allow me to show my code to a much 
 wider audience.
+
+you'd want to push changes manually to Git, rather 
+than it being automatic so that once you finish something
+concrete, then its on git
