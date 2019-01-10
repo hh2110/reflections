@@ -17,3 +17,9 @@ local copies of local branches: by copying the last known
 state of the remote stored locally we can fix merge 
 conflicts between the github latest commit and the local 
 latest commit before updating github 
+
+Wihout git, collaboration would be easier in terms of
+learning all the ways to merge, commit, add etc but
+collab would be harder in doing things remotely, since
+everyone would need to be in close collaboration, 
+i.e int he same room or team all the time while working
