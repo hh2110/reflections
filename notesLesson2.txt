@@ -27,3 +27,10 @@ you want to keep a clean code too
 visualisation of branches is useful to see whats happened
 in the past
 
+merging two branches means that if you have been working
+on a new feature and someone else has been working on 
+another feature then you can merge the two different codes
+together in a easy way to create a new master branch with a 
+new commit HEAD
+
+
