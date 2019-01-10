@@ -33,4 +33,5 @@ another feature then you can merge the two different codes
 together in a easy way to create a new master branch with a 
 new commit HEAD
 
-
+automatic merging is quick but should be done with oversight
+to make sure conflicts are resolved 
