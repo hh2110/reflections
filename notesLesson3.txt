@@ -23,3 +23,8 @@ learning all the ways to merge, commit, add etc but
 collab would be harder in doing things remotely, since
 everyone would need to be in close collaboration, 
 i.e int he same room or team all the time while working
+
+when to use a separate branch - for new ideas/features
+so that the master code is still working always 
+then can make a pull request to commit the new changes
+in the new branch to the master branch
